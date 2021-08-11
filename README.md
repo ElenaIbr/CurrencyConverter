@@ -1,6 +1,6 @@
 # CurrencyConverter
 
-Example of simple app, which converts ruble into other currency using JSON from The Central Bank of the Russian Federation website (https://www.cbr-xml-daily.ru/daily_json.js)
+Example of simple app, which converts ruble into other currency using JSON from The Central Bank of the Russian Federation website https://www.cbr-xml-daily.ru/daily_json.js
 
 It is used  moshi library for JSON parsing.
 
