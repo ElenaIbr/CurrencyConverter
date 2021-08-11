@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="date">DATE</string>
+    <string name="no_res">0.0</string>
+    <string name="rub">russian rubles to:</string>
+    <string name="convert">Convert</string>
+</resources>
