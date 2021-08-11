@@ -4,7 +4,7 @@ Example of simple app, which converts ruble into other currency using JSON from 
 
 It is used  moshi library for JSON parsing.
 
-Here you can check results https://cash.rbc.ru/converter.html?from=EUR&to=RUR&sum=7&date=&rate=cbrf
+Here you can check results https://www.cbr.ru/eng/currency_base/daily/
 
 
 
